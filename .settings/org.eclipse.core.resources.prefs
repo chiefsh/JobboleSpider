@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//ArticleSpider/items.py=utf-8
+encoding//ArticleSpider/middlewares.py=utf-8
+encoding//ArticleSpider/pipelines.py=utf-8
+encoding//ArticleSpider/settings.py=utf-8
+encoding//ArticleSpider/spiders/jobbole.py=utf-8
